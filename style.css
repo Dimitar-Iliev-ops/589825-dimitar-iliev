@@ -1,0 +1,1369 @@
+.home-page {
+    background-color: #222222;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home-page .div {
+    background-color: #222222;
+    overflow-x: hidden;
+    width: 1440px;
+    height: 8644px;
+    position: relative;
+  }
+  
+  .home-page .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 2528px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .background {
+    position: absolute;
+    width: 1440px;
+    height: 1609px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .overlap-group {
+    position: relative;
+    height: 1609px;
+  }
+  
+  .home-page .freepik-a {
+    position: absolute;
+    width: 1440px;
+    height: 823px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    opacity: 0.05;
+     background-blend-mode: darken;
+     transform: rotate (180deg);
+  }
+  
+  .home-page .img {
+    position: absolute;
+    width: 1440px;
+    height: 823px;
+    top: 786px;
+    left: 0;
+    object-fit: cover;
+    opacity: 0.05;
+    opacity: 0.05;
+    background-blend-mode: darken;
+ rotate: (180deg);
+
+  }
+  
+  .home-page .rectangle {
+    position: absolute;
+    width: 1384px;
+    height: 960px;
+    top: 1568px;
+    left: 32px;
+    background-color: #000000;
+  }
+  
+  .home-page .image {
+    position: absolute;
+    width: 199px;
+    height: 262px;
+    top: 217px;
+    left: 1001px;
+  }
+  
+  .home-page .image-2 {
+    position: absolute;
+    width: 256px;
+    height: 206px;
+    top: 190px;
+    left: 307px;
+  }
+  
+  .home-page .p {
+    position: absolute;
+    width: 1143px;
+    top: 258px;
+    left: 80px;
+    font-family: "Great Vibes", Helvetica;
+    color: transparent;
+    font-size: 160px;
+    letter-spacing: 0;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper {
+    color: #e5dac8;
+  }
+  
+  .home-page .span {
+    font-family: "Dela Gothic One", Helvetica;
+    color: #e5dac8;
+    font-size: 100px;
+  }
+  
+  .home-page .div-2 {
+    position: absolute;
+    top: 346px;
+    left: 368px;
+    font-family: "Dela Gothic One", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 100px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-2 {
+    font-family: "Great Vibes", Helvetica;
+    color: #e5dac8;
+    font-size: 160px;
+  }
+  
+  .home-page .image-3 {
+    position: absolute;
+    width: 193px;
+    height: 250px;
+    top: 422px;
+    left: 86px;
+  }
+  
+  .home-page .image-4 {
+    position: absolute;
+    width: 234px;
+    height: 192px;
+    top: 473px;
+    left: 694px;
+  }
+  
+  .home-page .frame {
+    display: flex;
+    width: 1376px;
+    align-items: center;
+    gap: 48px;
+    position: absolute;
+    top: 38px;
+    left: 32px;
+  }
+  
+  .home-page .frame-2 {
+    display: inline-flex;
+    align-items: center;
+    gap: 48px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .home-page .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Oswald", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .ivan-milev-logo-hor {
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  .home-page .frame-3 {
+    display: inline-flex;
+    align-items: center;
+    gap: 49px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .home-page .frame-4 {
+    display: flex;
+    flex-direction: column;
+    width: 653px;
+    align-items: flex-start;
+    gap: 24px;
+    position: absolute;
+    top: 1696px;
+    left: 572px;
+  }
+  
+  .home-page .text-wrapper-4 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Dela Gothic One", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 2.70px;
+    line-height: normal;
+  }
+  
+  .home-page .frame-5 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .home-page .element {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Oswald", Helvetica;
+    font-weight: 400;
+    color: #e1e1e1;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-5 {
+    font-weight: 200;
+  }
+  
+  .home-page .text-wrapper-6 {
+    font-weight: 700;
+  }
+  
+  .home-page .text-wrapper-7 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Oswald", Helvetica;
+    font-weight: 200;
+    color: #e1e1e1;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .frame-6 {
+    display: flex;
+    flex-direction: column;
+    width: 648px;
+    align-items: flex-start;
+    gap: 24px;
+    position: absolute;
+    top: 1024px;
+    left: 768px;
+  }
+  
+  .home-page .text-wrapper-8 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    opacity: 0.6;
+    font-family: "Dela Gothic One", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 2.70px;
+    line-height: normal;
+  }
+  
+  .home-page .element-2 {
+    position: relative;
+    width: 566px;
+    font-family: "Oswald", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0.48px;
+    line-height: normal;
+  }
+  
+  .home-page .div-wrapper {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 12px 32px;
+    position: absolute;
+    top: 787px;
+    left: 647px;
+    background-color: #ffffff;
+    border-radius: 32px;
+    border: 1px solid;
+    border-color: #ffffff80;
+  }
+  
+  .home-page .text-wrapper-9 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Oswald", Helvetica;
+    font-weight: 200;
+    color: #222222;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .element-TATE {
+    position: absolute;
+    width: 690px;
+    top: 862px;
+    left: 375px;
+    font-family: "Oswald", Helvetica;
+    font-weight: 200;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 2.70px;
+    line-height: normal;
+  }
+  
+  .home-page .frame-7 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 12px 32px;
+    position: absolute;
+    top: 1353px;
+    left: 142px;
+    background-color: #ffffff;
+    border-radius: 32px;
+    border: 1px solid;
+    border-color: #ffffff80;
+  }
+  
+  .home-page .image-5 {
+    position: absolute;
+    width: 164px;
+    height: 107px;
+    top: 521px;
+    left: 1143px;
+  }
+  
+  .home-page .image-6 {
+    position: absolute;
+    width: 297px;
+    height: 414px;
+    top: 1701px;
+    left: 215px;
+    object-fit: cover;
+  }
+  
+  .home-page .ivan-milev-logo-vert {
+    position: absolute;
+    width: 283px;
+    height: 183px;
+    top: 2062px;
+    left: 220px;
+    overflow: hidden;
+  }
+  
+  .home-page .overlap-2 {
+    position: relative;
+    height: 182px;
+  }
+  
+  .home-page .vector {
+    position: absolute;
+    width: 216px;
+    height: 90px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .group {
+    position: absolute;
+    width: 283px;
+    height: 103px;
+    top: 79px;
+    left: 0;
+  }
+  
+  .home-page .frame-8 {
+    display: flex;
+    flex-direction: column;
+    width: 516px;
+    align-items: flex-start;
+    gap: 40px;
+    position: absolute;
+    top: 1024px;
+    left: 142px;
+  }
+  
+  .home-page .text-wrapper-10 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: var(--h2-font-family);
+    font-weight: var(--h2-font-weight);
+    color: #ffffff;
+    font-size: var(--h2-font-size);
+    letter-spacing: var(--h2-letter-spacing);
+    line-height: var(--h2-line-height);
+    font-style: var(--h2-font-style);
+  }
+  
+  .home-page .frame-9 {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .home-page .text-wrapper-11 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Oswald", Helvetica;
+    color: #e5dac8;
+    font-size: 40px;
+    letter-spacing: -2.00px;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .home-page .line-wrapper {
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  .home-page .line {
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    height: 4px;
+    margin-top: -4.00px;
+  }
+  
+  .home-page .text-wrapper-12 {
+    position: absolute;
+    top: 2623px;
+    left: 736px;
+    font-family: var(--h2-font-family);
+    font-weight: var(--h2-font-weight);
+    color: #ffffff;
+    font-size: var(--h2-font-size);
+    letter-spacing: var(--h2-letter-spacing);
+    line-height: var(--h2-line-height);
+    white-space: nowrap;
+    font-style: var(--h2-font-style);
+  }
+  
+  .home-page .line-2 {
+    position: absolute;
+    width: 562px;
+    height: 8px;
+    top: 2672px;
+    left: 142px;
+  }
+  
+  .home-page .overlap-3 {
+    position: absolute;
+    width: 1394px;
+    height: 3365px;
+    top: 2959px;
+    left: 23px;
+  }
+  
+  .home-page .frame-wrapper {
+    display: flex;
+    width: 698px;
+    align-items: center;
+    gap: 8px;
+    padding: 48px 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #222222;
+    border: 1px solid;
+    border-color: #545454;
+  }
+  
+  .home-page .frame-10 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  .home-page .frame-11 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 40px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .home-page .frame-12 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .home-page .text-wrapper-13 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Oswald", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .element-3 {
+    position: relative;
+    width: fit-content;
+    font-family: "Oswald", Helvetica;
+    font-weight: 200;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .image-7 {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 798.46px;
+  }
+  
+  .home-page .text-wrapper-14 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Oswald", Helvetica;
+    font-weight: 200;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .frame-13 {
+    display: flex;
+    width: 698px;
+    align-items: center;
+    gap: 8px;
+    padding: 48px 40px;
+    position: absolute;
+    top: 0;
+    left: 696px;
+    background-color: #222222;
+    border: 1px solid;
+    border-color: #545454;
+  }
+  
+  .home-page .frame-14 {
+    display: flex;
+    width: 698px;
+    align-items: center;
+    gap: 8px;
+    padding: 48px 40px;
+    position: absolute;
+    top: 1120px;
+    left: 0;
+    background-color: #222222;
+    border: 1px solid;
+    border-color: #545454;
+  }
+  
+  .home-page .frame-15 {
+    display: flex;
+    width: 698px;
+    align-items: center;
+    gap: 8px;
+    padding: 48px 40px;
+    position: absolute;
+    top: 1120px;
+    left: 696px;
+    background-color: #222222;
+    border: 1px solid;
+    border-color: #545454;
+  }
+  
+  .home-page .rectangle-2 {
+    position: absolute;
+    width: 696px;
+    height: 1122px;
+    top: 2242px;
+    left: 698px;
+    object-fit: cover;
+  }
+  
+  .home-page .frame-16 {
+    display: flex;
+    width: 698px;
+    align-items: center;
+    gap: 8px;
+    padding: 48px 40px;
+    position: absolute;
+    top: 2242px;
+    left: 0;
+    background-color: #222222;
+    border: 1px solid;
+    border-color: #545454;
+  }
+  
+  .home-page .image-8 {
+    position: absolute;
+    width: 105px;
+    height: 60px;
+    top: 3266px;
+    left: 1253px;
+    object-fit: cover;
+  }
+  
+  .home-page .ivan-milev-logo-hor-2 {
+    position: absolute;
+    width: 96px;
+    height: 40px;
+    top: 3276px;
+    left: 739px;
+  }
+  
+  .home-page .element-TATE-2 {
+    position: absolute;
+    top: 2300px;
+    left: 791px;
+    font-family: "Oswald", Helvetica;
+    font-weight: 200;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .frame-17 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 12px 32px;
+    position: absolute;
+    top: 2932px;
+    left: 973px;
+    background-color: #ffffff;
+    border-radius: 32px;
+    border: 1px solid;
+    border-color: #ffffff80;
+  }
+  
+  .home-page .overlap-wrapper {
+    position: absolute;
+    width: 627px;
+    height: 128px;
+    top: 2753px;
+    left: 733px;
+  }
+  
+  .home-page .overlap-4 {
+    position: relative;
+    height: 128px;
+  }
+  
+  .home-page .img-2 {
+    position: absolute;
+    width: 490px;
+    height: 97px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .image-9 {
+    position: absolute;
+    width: 477px;
+    height: 52px;
+    top: 76px;
+    left: 150px;
+  }
+  
+  .home-page .text-wrapper-15 {
+    position: absolute;
+    width: 1200px;
+    top: 6444px;
+    left: 81px;
+    font-family: "Dela Gothic One", Helvetica;
+    font-weight: 400;
+    color: #e8e8e8;
+    font-size: 60px;
+    letter-spacing: -0.46px;
+    line-height: 90px;
+  }
+  
+  .home-page .overlap-5 {
+    position: absolute;
+    width: 578px;
+    height: 108px;
+    top: 2758px;
+    left: 142px;
+  }
+  
+  .home-page .text-wrapper-16 {
+    position: absolute;
+    width: 578px;
+    top: 0;
+    left: 0;
+    font-family: "Oswald", Helvetica;
+    font-weight: 200;
+    color: #f0f0f0;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-17 {
+    position: absolute;
+    top: 7167px;
+    left: 1017px;
+    font-family: "Dela Gothic One", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 60px;
+    letter-spacing: -0.46px;
+    line-height: 90px;
+    white-space: nowrap;
+  }
+  
+  .home-page .line-3 {
+    position: absolute;
+    width: 936px;
+    height: 8px;
+    top: 7190px;
+    left: 24px;
+  }
+  
+  .home-page .overlap-6 {
+    position: absolute;
+    width: 1394px;
+    height: 562px;
+    top: 7279px;
+    left: 23px;
+  }
+  
+  .home-page .frame-18 {
+    display: flex;
+    flex-direction: column;
+    width: 698px;
+    height: 562px;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 47px 55px;
+    position: absolute;
+    top: 0;
+    left: 696px;
+    background-color: #222222;
+    border: 1px solid;
+    border-color: #545454;
+  }
+  
+  .home-page .frame-19 {
+    display: flex;
+    flex-direction: column;
+    width: 579px;
+    align-items: flex-start;
+    gap: 329px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .home-page .frame-20 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .home-page .element-TATE-3 {
+    position: relative;
+    width: 198px;
+    margin-top: -1.00px;
+    font-family: "Oswald", Helvetica;
+    font-weight: 200;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-18 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Dela Gothic One", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 60px;
+    letter-spacing: -0.46px;
+    line-height: 90px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper-19 {
+    position: relative;
+    width: 398px;
+    font-family: "Oswald", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .frame-21 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 12px 32px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #ffffff;
+    border-radius: 32px;
+    border: 1px solid;
+    border-color: #ffffff80;
+  }
+  
+  .home-page .frame-22 {
+    display: flex;
+    flex-direction: column;
+    width: 698px;
+    height: 562px;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 47px 38px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #222222;
+    border: 1px solid;
+    border-color: #545454;
+  }
+  
+  .home-page .frame-23 {
+    display: flex;
+    flex-direction: column;
+    width: 616px;
+    align-items: flex-start;
+    gap: 329px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .home-page .text-wrapper-20 {
+    position: relative;
+    width: fit-content;
+    font-family: "Oswald", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .overlap-7 {
+    position: absolute;
+    width: 1424px;
+    height: 492px;
+    top: 8148px;
+    left: 0;
+    background-color: #f43c1e;
+  }
+  
+  .home-page .ivan-milev-logo-hor-3 {
+    position: absolute;
+    width: 240px;
+    height: 49px;
+    top: 107px;
+    left: 605px;
+  }
+  
+  .home-page .frame-24 {
+    display: flex;
+    flex-direction: column;
+    width: 1118px;
+    align-items: flex-start;
+    gap: 2px;
+    position: absolute;
+    top: 218px;
+    left: 166px;
+  }
+  
+  .home-page .text-wrapper-21 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Oswald", Helvetica;
+    font-weight: 200;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .ivan-milev-logo-hor-4 {
+    position: relative;
+    width: 168px;
+    height: 34px;
+  }
+  
+  .home-page .image-10 {
+    position: relative;
+    width: 93px;
+    height: 53px;
+    object-fit: cover;
+  }
+  
+  .home-page .logo {
+    position: relative;
+    width: 92px;
+    height: 46px;
+  }
+  
+  .home-page .logo-2 {
+    position: relative;
+    width: 138px;
+    height: 69px;
+  }
+  
+  .home-page .frame-25 {
+    position: relative;
+    width: 176px;
+    height: 40px;
+  }
+  
+  .home-page .logo-3 {
+    position: relative;
+    width: 52px;
+    height: 44px;
+  }
+  
+  .home-page .frame-26 {
+    display: flex;
+    width: 1321px;
+    align-items: flex-end;
+    justify-content: space-between;
+    position: absolute;
+    top: 431px;
+    left: 64px;
+  }
+  
+  .home-page .text-wrapper-22 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Oswald", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .frame-27 {
+    display: inline-flex;
+    align-items: flex-end;
+    gap: 70px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .home-page .frame-28 {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .home-page .img-3 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .home-page .text-wrapper-23 {
+    position: relative;
+    width: fit-content;
+    font-family: "Oswald", Helvetica;
+    font-weight: 500;
+    color: #e7ebe9;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .vector-2 {
+    position: relative;
+    width: 24px;
+    height: 16.91px;
+  }
+  
+  .home-page .you-tube {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Oswald", Helvetica;
+    font-weight: 500;
+    color: #e7ebe9;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .frame-29 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 106px;
+    position: absolute;
+    top: 7904px;
+    left: 90px;
+  }
+  
+  .home-page .text-wrapper-24 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Oswald", Helvetica;
+    font-weight: 200;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.4);
+
+
+
+  font-family: sans-serif;
+  max-width: 800px;
+  padding: 1em;
+}
+
+.buy-ticket {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.buy-ticket .div {
+  background-color: #ffffff;
+  width: 1000px;
+  height: 1039px;
+  position: relative;
+}
+
+.buy-ticket .text-wrapper {
+  position: absolute;
+  top: 55px;
+  left: 48px;
+  font-family: var(--h2-font-family);
+  font-weight: var(--h2-font-weight);
+  color: #252525;
+  font-size: var(--h2-font-size);
+  letter-spacing: var(--h2-letter-spacing);
+  line-height: var(--h2-line-height);
+  font-style: var(--h2-font-style);
+}
+
+.buy-ticket .frame {
+  display: flex;
+  width: 952px;
+  align-items: center;
+  gap: 9px;
+  position: absolute;
+  top: 277px;
+  left: 36px;
+}
+
+.buy-ticket .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 400;
+  color: #222222;
+  font-size: 40px;
+  letter-spacing: -2.00px;
+  line-height: normal;
+}
+
+.buy-ticket .line-wrapper {
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.buy-ticket .line {
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  height: 4px;
+  margin-top: -4.00px;
+}
+
+.buy-ticket .group {
+  position: absolute;
+  width: 627px;
+  height: 128px;
+  top: 82px;
+  left: 324px;
+}
+
+.buy-ticket .overlap-group {
+  position: relative;
+  height: 128px;
+}
+
+.buy-ticket .img {
+  position: absolute;
+  width: 490px;
+  height: 97px;
+  top: 0;
+  left: 0;
+}
+
+.buy-ticket .image {
+  position: absolute;
+  width: 477px;
+  height: 52px;
+  top: 76px;
+  left: 150px;
+}
+
+.buy-ticket .overlap {
+  position: absolute;
+  width: 952px;
+  height: 616px;
+  top: 376px;
+  left: 24px;
+  background-color: #222222;
+  border: 1px solid;
+  border-color: #545454;
+}
+
+.buy-ticket .frame-2 {
+  display: flex;
+  width: 881px;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: absolute;
+  top: 36px;
+  left: 47px;
+}
+
+.buy-ticket .element-TATE {
+  position: relative;
+  width: 198px;
+  margin-top: -1.00px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 200;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.buy-ticket .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Dela Gothic One", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 60px;
+  letter-spacing: -0.46px;
+  line-height: 90px;
+  white-space: nowrap;
+}
+
+.buy-ticket .text-wrapper-4 {
+  position: absolute;
+  width: 380px;
+  top: 253px;
+  left: 47px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.buy-ticket .image-2 {
+  position: absolute;
+  width: 242px;
+  height: 240px;
+  top: 267px;
+  left: 619px;
+  object-fit: cover;
+}
+
+.buy-ticket .div-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 32px;
+  position: absolute;
+  top: 329px;
+  left: 47px;
+  background-color: #ffffff;
+  border-radius: 32px;
+  border: 1px solid;
+  border-color: #ffffff80;
+}
+
+.buy-ticket .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 200;
+  color: #222222;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.buy-ticket .frame-3 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 32px;
+  position: absolute;
+  top: 329px;
+  left: 226px;
+  border-radius: 32px;
+  border: 1px solid;
+  border-color: #ffffff80;
+}
+
+.buy-ticket .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 200;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.buy-ticket .text-wrapper-7 {
+  position: absolute;
+  top: 215px;
+  left: 759px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 200;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+.date-range {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 1em 0;
+}
+
+.date-range hr {
+  flex: 1;
+  margin: 0 10px;
+  border: none;
+  border-top: 1px solid black;
+}
+
+.tickets {
+  display: flex;
+  gap: 20px;
+}
+
+.ticket {
+  background: #111;
+  color: white;
+  padding: 20px;
+  flex: 1;
+  border: 1px dashed #00f;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.price {
+  font-size: 2em;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.type {
+  margin: 10px 0;
+}
